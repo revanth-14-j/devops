@@ -1,3 +1,1 @@
-aws
-devops
-gg
+AWS WITH DEVOPS
